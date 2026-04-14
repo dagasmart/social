@@ -9,12 +9,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Administrator",
-            "email": ""
+            "name": "dagasmart",
+            "email": "dagasmart@qq.com"
         }
     ],
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.3",
         "dagasmart/bizadmin": "*"
     },
     "autoload": {
