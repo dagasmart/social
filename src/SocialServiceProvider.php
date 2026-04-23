@@ -41,6 +41,7 @@ class SocialServiceProvider extends ServiceProvider
 
     protected function setupConfig(): void
     {
+        /**加载配置**/
         $configPath = dirname(__DIR__, 1).'/config/social.php';
 
         if ($this->app->runningInConsole()) {
