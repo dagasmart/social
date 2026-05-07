@@ -3,7 +3,6 @@
     "alias": "快捷登录",
     "description": "OAuth 认证包，用于简化使用第三方平台进行用户登录",
     "type": "library",
-    "version": "1.0.0",
     "keywords": ["bizadmin", "extension"],
     "homepage": "https://github.com/dagasmart/social",
     "license": "MIT",
@@ -14,7 +13,7 @@
         }
     ],
     "require": {
-        "php": ">=8.3",
+        "php": ">=8.0",
         "dagasmart/bizadmin": "*"
     },
     "autoload": {
